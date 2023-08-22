@@ -8,6 +8,7 @@ Install libraries:
 -matplotlib
 
 Dataset:In the section dataset there is the google drive link of some .h5 files samples from CSES satellite that must be read from code. Change every datapath in code with the folder where you save the dataset.
+https://drive.google.com/file/d/19Q0yajOoA1u6_v49FxC27cd3OHJ7b7Jm/view?usp=sharing
 
 Code:There are .py and .ipynb files where notebooks are stored and pdf files with the code and relative notes for each line.
 
@@ -20,3 +21,4 @@ Code:There are .py and .ipynb files where notebooks are stored and pdf files wit
 -'AVG amplitude total' produces a global graph with all the amplitude of every orbits for different frequencies.
 
 Plot:In the plot section there are some output images and a drive link where find all the pdf of plots from code.
+https://drive.google.com/file/d/18ZG7gbuuwPqicaBpVndRoWqa2c8jJjgr/view?usp=drive_link
